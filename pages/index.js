@@ -18,6 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing{' '}
+          <p>this is very new for Akil Injamam</p>
           <code className={styles.code}>pages/index.js</code>
         </p>
 
